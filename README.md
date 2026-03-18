@@ -29,7 +29,6 @@
 - [Sécurité & RGPD](#-sécurité--rgpd)
 - [Aperçu du projet](#-aperçu-du-projet)
 - [Utilisation](#-utilisation)
-- [Auteur](#-auteur)
 
 ---
 
